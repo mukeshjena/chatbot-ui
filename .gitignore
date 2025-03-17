@@ -3,7 +3,6 @@ node_modules/
 jspm_packages/
 
 # Build outputs
-dist/
 build/
 out/
 .output/
@@ -75,8 +74,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
-
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
